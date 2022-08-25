@@ -4,6 +4,8 @@ Jeg er Sondre og er tre år inn i Bachelorgraden Informatikk, matematikk og øko
 
 Bachelorgraden i Informatikk, matematikk og økonomi er en tverrfaglig studieretning, med hovedfokus på informatikkemner. Her har jeg tilegnet meg kompetanse innen databaser, datasikkerhet, datanett og generell programmering!
 
+Ferdigheter innen: JAVA/Python/MySql/HTML
+
 
 
 LinkedIn:     
