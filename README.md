@@ -7,6 +7,6 @@ Bachelorgraden i Informatikk, matematikk og økonomi er en tverrfaglig studieret
 
 
 LinkedIn:     
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sondre-sylte/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sondre-sylte-033577200/)  
 
 
